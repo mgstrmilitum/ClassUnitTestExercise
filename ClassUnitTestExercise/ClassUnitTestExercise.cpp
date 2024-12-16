@@ -6,7 +6,7 @@
 
 float Add(float left_operand, float right_operand) 
 { 
-float result = left_operand + right_operand;
+float result = left_operand - right_operand;
 return result; 
 }
 
