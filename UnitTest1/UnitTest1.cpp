@@ -20,7 +20,7 @@ namespace UnitTest1
 		TEST_METHOD(AddTestNotEqual)
 		{
 
-			Assert::AreNotEqual((int)Add(1, 1), 3);
+			Assert::AreNotEqual((int)Add(1, 1), 2);
 
 
 		}
